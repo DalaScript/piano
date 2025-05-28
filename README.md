@@ -2,7 +2,7 @@
 
 **Project 13/20**
 
-**In Process!**
+A responsive piano interface created using pure HTML and CSS. This visual-only layout replicates the appearance of a real piano with accurately placed white and black keys. No images, audio, or JavaScript — just pure CSS creativity 🎶.
 
 ---
 
@@ -27,25 +27,34 @@
 
 ### 📸 Screenshot
 
-**In Process!**
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
-**In Process!**
+ - [🔴 Live Demo](https://dalascript.github.io/piano/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/piano)
 
 ### 📌 Features
 
-**In Process!**
+ - ✅ Realistic piano key layout using only HTML & CSS
+ - ✅ Visual distinction between white and black keys
+ - ✅ Responsive design with media queries
+ - ✅ Custom sizing and positioning using `float` and `position`
+ - ✅ Clean and centered piano layout
 
 ## 🧠 My Process
 
 ### 🛠️ Built with
 
-**In Process!**
+ - HTML5
+ - CSS3
 
 ### 🎓 What I Learned
 
-**In Process!**
+ - Structuring complex visuals using only HTML and CSS
+ - Positioning overlapping elements with `position: absolute` and `::after`
+ - Designing responsive components with flexible layouts
+ - Using `float` for side-by-side element placement
 
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
